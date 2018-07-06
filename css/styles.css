@@ -51,6 +51,11 @@ h3 {
     background-repeat: no-repeat;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+}
+
 .shop-image {
     background-image: url('../images/happiness_science.jpg');
 }
